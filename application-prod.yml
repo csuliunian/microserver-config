@@ -1,4 +1,4 @@
-configInfo: microserver-config,version=2
+configInfo: microserver-config,version=3
 microserver: 
   port: 8777
   uri: http://localhost/
