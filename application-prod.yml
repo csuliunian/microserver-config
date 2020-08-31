@@ -1,1 +1,5 @@
 configInfo: microserver-config,version=1
+microserver: 
+  port: 8777
+  uri: http://localhost/
+  
